@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 280" role="img" aria-labelledby="title desc">
+  <title id="title">Horizon Community Impact Foundation</title>
+  <desc id="desc">HCIF wordmark with a rising sun and intersecting community pathways</desc>
+  <g transform="translate(18 25)">
+    <path d="M25 97a70 70 0 0 1 140 0Z" fill="#E9AA28"/>
+    <path d="M16 162c38-42 82-59 132-50 25 4 47 13 65 28v53c-26-24-54-37-85-39-39-3-76 10-112 40Z" fill="#11738A"/>
+    <path d="M18 220c37-61 80-94 127-99 31-3 63 9 96 37v62c-39-45-73-66-103-63-28 3-55 24-80 63Z" fill="#113652"/>
+    <path d="M29 150c41-29 80-39 116-31 30 6 58 24 85 52" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round"/>
+    <path d="M55 214c30-47 59-72 88-75 26-3 55 14 88 50" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round"/>
+  </g>
+  <rect x="282" y="33" width="5" height="212" rx="2.5" fill="#E9AA28"/>
+  <text x="326" y="174" fill="#113652" font-family="Arial, Helvetica, sans-serif" font-size="151" font-weight="800" letter-spacing="3">HCIF</text>
+  <text x="333" y="226" fill="#113652" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing=".3">Horizon Community Impact Foundation</text>
+</svg>
